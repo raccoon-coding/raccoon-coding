@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+<a href="https://www.notion.so/Choi-Min-Sung-52ec35a207c24b5f890e441dd0ba3c02" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 <!--
-**raccoon-coding/raccoon-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**raccoon-coding/raccoon-c![Uploading notion.svg…]()
+oding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
