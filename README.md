@@ -3,14 +3,14 @@
 <a href="https://www.notion.so/Choi-Min-Sung-52ec35a207c24b5f890e441dd0ba3c02" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 
 ## Skill
-<img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=Java&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=C++&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=437291"/></a>
+<img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=flat&logo=Kotlin&logoColor=7F52FF"/></a>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=Python&logoColor=3776AB"/></a>
+<img src="https://img.shields.io/badge/C++-FFFFFF?style=flat&logo=cplusplus&logoColor=00599C"/></a>
 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=Flask&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=Mysql&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat&logo=Spring&logoColor=6DB33F"/></a>
+<img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=Flask&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Mysql-FFFFFF?style=flat&logo=Mysql&logoColor=4479A1"/></a>
 
 <!--
 **raccoon-coding/raccoon-c![Uploading notion.svg…]()
