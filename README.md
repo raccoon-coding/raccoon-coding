@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=Flask&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Mysql-FFFFFF?style=flat&logo=Mysql&logoColor=4479A1"/></a>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoon-coding&show_icons=true&theme=radical)
 <!--
 **raccoon-coding/raccoon-c![Uploading notion.svg…]()
 oding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
