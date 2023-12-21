@@ -1,6 +1,6 @@
 👋 Hi there I'm server Developer using spring(java, kotlin)
 
-**portfolio**
+**🌱 portfolio**
 
 <a href="https://www.notion.so/Choi-Min-Sung-52ec35a207c24b5f890e441dd0ba3c02" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 
