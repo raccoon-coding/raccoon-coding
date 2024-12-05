@@ -19,7 +19,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-FFFFFF?style=flat&logo=mongodb&logoColor=47A248)
 
 ### Tools
-![IntelliJ](https://img.shields.io/badge/intellijidea-FFFFFF?style=flat&logo=intellijidea&logoColor=#000000)
+![IntelliJ](https://img.shields.io/badge/intellijidea-FFFFFF?style=flat&logo=intellijidea&logoColor=000000)
 
 ![Raccoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoon-coding&show_icons=true&theme=rose)
 
