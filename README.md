@@ -2,9 +2,19 @@
 
 👋 Hi there I'm server Developer using spring(java)
 
-**🌱 portfolio**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraccoon-coding&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://www.notion.so/Choi-Min-Sung-52ec35a207c24b5f890e441dd0ba3c02" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
+![Raccoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoon-coding&show_icons=true&theme=rose)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minsungt)](https://solved.ac/minsungt)
+
+---
+# :mailbox_with_mail: Contacts
+
+[![Tech Blog Badge](http://img.shields.io/badge/Tech_Blog-FFFFFF?style=flat-square&logo=Tistory&logoColor=000000&link=https://harmony-raccoon.tistory.com/)](https://harmony-raccoon.tistory.com/)
+[![Notion Portfolio](http://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=Notion&logoColor=000000&link=https://www.notion.so/Choi-Min-Sung-52ec35a207c24b5f890e441dd0ba3c02)](https://www.notion.so/Choi-Min-Sung-52ec35a207c24b5f890e441dd0ba3c02)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-FFFFFF?style=flat-square&logo=Gmail&logoColor=d14836&link=mailto:minsung352@gmail.com)](mailto:minsung352@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-FFFFFF?style=flat-square&logo=Naver&logoColor=03C75A&link=mailto:minsungt@naver.com)](mailto:minsungt@naver.com)
+
 
 ## Skill
 ### Languages 
@@ -22,12 +32,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FFFFFF?style=flat&logo=intellijidea&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
 ![Clion](https://img.shields.io/badge/Clion-FFFFFF?style=flat&logo=clion&logoColor=000000)
-
-![Raccoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoon-coding&show_icons=true&theme=rose)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minsungt)](https://solved.ac/minsungt)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraccoon-coding&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **raccoon-coding/raccoon-c![Uploading notion.svg…]()
 oding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
