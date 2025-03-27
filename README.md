@@ -1,4 +1,5 @@
 # Choi Min Sung 🧑🏻‍💻
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Backend%20Engineer%20Raccoon&fontSize=90)
 
 👋 Hi there I'm server Developer using spring(java)
 
